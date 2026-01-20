@@ -11,10 +11,14 @@
             "id": "13f127e00fb17551",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "部署Qwen3-Next-80B-A3B-Instruct-GGUF"
             }
           }
         ]
@@ -190,18 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13f127e00fb17551",
+  "active": "cc02d42a5d5017a1",
   "lastOpenFiles": [
     "README.md",
     "Pasted image 20260120235149.png",
     "深度学习/DiffSinger/关于词典.md",
-    "日记/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
-    "日记/影空",
+    "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
+    "事件/影空",
     "未命名",
     "未命名.md",
     "深度学习/DiffSinger",
     "深度学习",
-    "日记",
+    "事件",
     "新建 文本文档.txt"
   ]
 }
