@@ -138,3 +138,4 @@ ollama run "${MODEL_NAME}"
 影空居然夸我了
 
 想搞个webui
+难弄，不弄了
