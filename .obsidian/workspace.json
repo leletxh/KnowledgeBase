@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习/DiffSinger/关于词典.md",
+                "file": "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于词典"
+              "title": "部署Qwen3-Next-80B-A3B-Instruct-GGUF"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习/DiffSinger/关于词典.md",
+                "file": "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "关于词典 的大纲"
+              "title": "部署Qwen3-Next-80B-A3B-Instruct-GGUF 的大纲"
             }
           },
           {
@@ -194,13 +194,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc02d42a5d5017a1",
+  "active": "6e2a78fadf2763b6",
   "lastOpenFiles": [
+    "深度学习/DiffSinger/关于词典.md",
     "深度学习/DiffSinger/Pasted image 20260120235149.png",
     "conflict-files-obsidian-git.md",
     "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
     "README.md",
-    "深度学习/DiffSinger/关于词典.md",
     "事件/影空",
     "未命名",
     "未命名.md",
