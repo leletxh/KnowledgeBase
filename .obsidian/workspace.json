@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关于ollama.md",
+                "file": "关于给影空部署.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于ollama"
+              "title": "关于给影空部署"
             }
           }
         ]
@@ -197,7 +197,7 @@
   "active": "fae63093d6ffca3d",
   "lastOpenFiles": [
     "README.md",
-    "关于ollama.md",
+    "关于给影空部署.md",
     "新建 文本文档.txt"
   ]
 }
