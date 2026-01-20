@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3c79c0c16aa4280d",
+        "id": "a4417468a8e7bc4d",
         "type": "tabs",
         "children": [
           {
-            "id": "13f127e00fb17551",
+            "id": "6e2a78fadf2763b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
+                "file": "深度学习/DiffSinger/关于词典.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "部署Qwen3-Next-80B-A3B-Instruct-GGUF"
-            }
-          },
-          {
-            "id": "64311296d61f6ba7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "关于词典"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "深度学习/DiffSinger/关于词典.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "关于词典 的大纲"
             }
           },
           {
@@ -209,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "821d7118f7695bb3",
+  "active": "cc02d42a5d5017a1",
   "lastOpenFiles": [
-    "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
+    "深度学习/DiffSinger/Pasted image 20260120235149.png",
     "conflict-files-obsidian-git.md",
+    "事件/影空/部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
     "README.md",
-    "Pasted image 20260120235149.png",
     "深度学习/DiffSinger/关于词典.md",
     "事件/影空",
     "未命名",
