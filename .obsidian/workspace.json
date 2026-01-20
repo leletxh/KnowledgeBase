@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "关于给影空部署.md",
+                "file": "关于给影空部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关于给影空部署"
+              "title": "关于给影空部署Qwen3-Next-80B-A3B-Instruct-GGUF"
             }
           }
         ]
@@ -197,7 +197,7 @@
   "active": "fae63093d6ffca3d",
   "lastOpenFiles": [
     "README.md",
-    "关于给影空部署.md",
+    "关于给影空部署Qwen3-Next-80B-A3B-Instruct-GGUF.md",
     "新建 文本文档.txt"
   ]
 }
